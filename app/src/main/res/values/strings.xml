@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Submission2</string>
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="follower">Follower</string>
+    <string name="following">Following</string>
+    <string name="num">NULL</string>
+    <string name="location">Location</string>
+    <string name="work">Work</string>
+    <string name="repository">Repository</string>
+    <string name="setting">Language Setting</string>
+    <string name="find">Find User</string>
+</resources>

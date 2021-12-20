@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Submission2</string>
+    <string name="name">Nama</string>
+    <string name="username">Nama User</string>
+    <string name="follower">Pengikut</string>
+    <string name="following">Mengikuti</string>
+    <string name="num">KOSONG</string>
+    <string name="location">Lokasi</string>
+    <string name="work">Kerja</string>
+    <string name="repository">Repositori</string>
+    <string name="setting">Pengaturan Bahasa</string>
+    <string name="find">Cari Pengguna</string>
+</resources>
